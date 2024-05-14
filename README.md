@@ -1,8 +1,8 @@
-#HappyBird
+# HappyBird
 
 HappyBird is an implementation of the famous Flappy Bird game using OpenGL and SOIL.
 
-##Requirements
+## Requirements
 
 Before running the program, ensure you have the following dependencies installed:
 
@@ -21,7 +21,7 @@ Before running the program, ensure you have the following dependencies installed
     ```
     sudo apt-get install g++
     ```
-##Usage
+## Usage
 
 1. Compile the project:
     ```
@@ -29,11 +29,14 @@ Before running the program, ensure you have the following dependencies installed
     ```
 
 3. Run the program:
- ```
+
+      ```
     ./happybird
     ```
+    
+    
 
-##Controls
+## Controls
 
 - Press the spacebar to make the bird jump and avoid obstacles.
 - Try to keep the bird flying for as long as possible without hitting any pipes.
